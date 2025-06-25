@@ -28,7 +28,7 @@ python-dotenv
 PyYAML
 requests
 requests-toolbelt
-sfdc-llm-gateway-python-sdk @ ./sfdc_llm_gateway_python_sdk-1.0.4-py3-none-any.whl
+sfdc-llm-gateway-python-sdk @ file://./sfdc_llm_gateway_python_sdk-1.0.4-py3-none-any.whl
 six
 slack-sdk
 sniffio
